@@ -1,0 +1,6 @@
+__pycache__/
+env/
+.idea/
+static/
+api/test_data/*.json
+terminology.sqlite3
